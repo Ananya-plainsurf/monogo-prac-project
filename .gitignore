@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# MongoDB local data
+data/
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Postman Collections (if not needed in the repo)
+postman-collection.json
+postman-environment.json
+
+# IDE and OS specific files
+.idea/
